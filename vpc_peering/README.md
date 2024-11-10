@@ -6,7 +6,7 @@ It also creates two EC2 instances and security groups for testing.
 
 
 ## Architecture Final State's Diagram
-![Architecture Final State's Diagram](vpc_peering_final_staate.png)
+![Architecture Final State's Diagram](vpc_peering_final_state.png)
 
 
 ```hcl

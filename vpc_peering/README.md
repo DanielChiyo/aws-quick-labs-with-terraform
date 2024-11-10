@@ -11,3 +11,6 @@ resource "aws_vpc_peering_connection" "peer1" {
   auto_accept = true
 }
 ```
+
+#Final Architecture
+![Description of the image](aws_vpc_peering (2).png)
